@@ -7,4 +7,3 @@ for i in range(3,41):
     print(c,end=",")
     a = b
     b = c
-    i += 1
